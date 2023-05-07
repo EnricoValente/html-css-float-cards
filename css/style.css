@@ -47,12 +47,15 @@ h1{
     float: left;
     width: calc((100% / 3) - 40px);
     margin: 0 20px;
+    
 }
 
 .box{
     background-color:#0F0E17 ;
     height: 100px;
     margin-top: 40px;
+    color: white;
+    
 }
    
 img{
@@ -60,6 +63,17 @@ img{
     height: 100px;
     width: 100px;
 }
+
+
+
+span{
+    display: block;
+    
+}
+
+
+
+
 
 
 
